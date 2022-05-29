@@ -1,6 +1,6 @@
 {
-  "name": "@pancakeswap-libs/uikit",
-  "description": "Set of UI components for pancake projects",
+  "name": "lazermoon-uikit",
+  "description": "Set of UI components for lazermoon projects",
   "version": "1.0.2",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit",
+  "repository": "https://github.com/mrandall101/lazermoon-uikit/tree/master/packages/lazermoon-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
