@@ -1,7 +1,7 @@
 {
   "name": "lazermoon-uikit",
   "description": "Set of UI components for lazermoon projects",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
