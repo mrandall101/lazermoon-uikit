@@ -2,9 +2,7 @@
   "name": "lazermoon-uikit",
   "version": "1.0.3",
   "description": "Lazermoon UI frontend packages",
-  "private": true,
-  "workspaces": [
-    "packages/*"
+  "private": false,
   ],
   "repository": {
     "type": "git",
