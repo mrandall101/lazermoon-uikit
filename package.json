@@ -3,7 +3,6 @@
   "version": "1.0.3",
   "description": "Lazermoon UI frontend packages",
   "private": false,
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mrandall101/lazermoon-uikit.git"
